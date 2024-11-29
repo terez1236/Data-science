@@ -1,0 +1,187 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "3bee87b0-f5d9-4625-a7fd-e2ac34ab3db2",
+   "metadata": {},
+   "source": [
+    "# Data Science Tools and Ecosystem"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8d5986ce-f37c-4ece-b2c2-f1e77818f39a",
+   "metadata": {},
+   "source": [
+    "### In this notebook, Data Science Tools and Ecosystem are summarized.\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "45ecac56-c49b-4686-9ad3-5e328f3947cd",
+   "metadata": {},
+   "source": [
+    "**Objectives**\n",
+    "+ Languages that DS use\n",
+    "+ Libraries used by Data Scientist\n",
+    "+ Data Science tools\n",
+    "+ Examples of arithmetic expressions"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "920fb5b8-4109-4d3d-aa5b-b9f03696ce24",
+   "metadata": {},
+   "source": [
+    "#### Some of the popular languages that Data Scientists use are:\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "193a4355-b42a-4c3e-98d5-cf7869f76276",
+   "metadata": {},
+   "source": [
+    "1. Python\n",
+    "2. R\n",
+    "3. Julia\n",
+    "4. SQL"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "382bd4f2-86fc-46d6-a753-aafe5266d860",
+   "metadata": {},
+   "source": [
+    "#### Some of the commonly used libraries used by Data Scientists include:"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0b222f98-f6c9-4d91-b046-0da165cd7d46",
+   "metadata": {},
+   "source": [
+    "1. NumPy\n",
+    "2. Keras\n",
+    "3. Pandas\n",
+    "4. SciPy"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "9d51c6b4-6508-4b73-b88a-30ac1ad2de8d",
+   "metadata": {},
+   "source": [
+    "| Data Science Tools |\n",
+    "| -------------|\n",
+    "| Jupyter Notebooks |\n",
+    "| RStudio IDE |\n",
+    "| GitHub|"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "3ebde92a-b2af-4073-b620-e0e5a0ff9961",
+   "metadata": {},
+   "source": [
+    "### Below are a few examples of evaluating arithmetic expressions in Python"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "41e2ebe4-2680-4552-9def-638ce668ecf4",
+   "metadata": {},
+   "source": [
+    "#### This a simple arithmetic expression to multiply then add integers"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "0e4bef22-cb97-418f-ac3f-6881f3f2be56",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "17"
+      ]
+     },
+     "execution_count": 6,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "(3*4)+5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ef316ef5-ff51-45c7-ab0c-4a11a859dbdb",
+   "metadata": {},
+   "source": [
+    "#### This will convert 200 minutes to hours by diving by 60"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 9,
+   "id": "bba00d1a-b1e5-4196-8acf-540d44618916",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "3.3333333333333335"
+      ]
+     },
+     "execution_count": 9,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "200/60"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "92fb59ae-6cff-4f6a-a977-e251fa75bca1",
+   "metadata": {},
+   "source": [
+    "## Author\n",
+    "Tereza Karlová"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "fd9e1bea-603a-4739-b9df-a6fecf1f2ec1",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
